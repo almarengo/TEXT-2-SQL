@@ -1,3 +1,5 @@
+# TEXT-2-SQL
+A preliminary study on the ability of using ML to translate natural language into SQL
 # TEXT TO SQL - Using ML to generate structured queries from Natural Language
 
 Alberto Marengo<br />
@@ -69,5 +71,3 @@ Project working files:<br />
 
 * requirements.txt<br />
     Contains the `capstone` environment with the list of libraries used
-
-
